@@ -71,19 +71,36 @@
 
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayyan-M15&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=Rayyan-M15&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-M15&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=Rayyan-M15&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyan-M15&theme=tokyonight" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rayyan-M15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayyan-M15&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayyan-M15&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayyan-M15&theme=tokyonight" />
+
+<!--
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayyan-M15&theme=tokyonight&utcOffset=5.5" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rayyan-M15&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+-->
 
 </div>
+
 
 ---
 
@@ -109,11 +126,11 @@
 
 # 📌 Upcoming Projects
 
-- Full Stack Productivity App
+- 2 Full Stack Web Apps
 - Portfolio Website
 - Open Source Contributions
 - DSA Repository
-- Backend Practice Projects
+- Many Minor Practice Projects
 
 ---
 
