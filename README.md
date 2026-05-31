@@ -3,7 +3,7 @@
 # Hey, I'm Rayyan 👋
 ### C++ • DSA • Full-Stack Web Development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=C%2B%2B+%7C+DSA+%7C+Full-Stack+Web+Development;Open+Source+Learner;Building+Projects+and+Growing+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=C%2B%2B+%7C+DSA+%7C+Full-Stack+Web+Development;Open+Source+Learner;Open+To+Internships;Building+Projects+and+Growing+Every+Day" />
 
 <p>
   <a href="https://komarev.com/ghpvc/?username=Rayyan-M15&label=Profile%20Views&color=0e75b6&style=for-the-badge">
@@ -79,7 +79,7 @@
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyan-M15&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayyan-M15&theme=tokyonight" />
 
 <br><br>
 
@@ -88,8 +88,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayyan-M15&theme=tokyonight" />
 
 <br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyan-M15&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayyan-M15&theme=tokyonight" />
 
 <!--
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayyan-M15&theme=tokyonight&utcOffset=5.5" />
