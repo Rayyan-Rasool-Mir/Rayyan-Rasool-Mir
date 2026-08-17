@@ -6,12 +6,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=C%2B%2B+%7C+DSA+%7C+Full-Stack+Web+Development;Open+Source+Learner;Open+To+Internships;Building+Projects+and+Growing+Every+Day" />
 
 <p>
-  <a href="https://komarev.com/ghpvc/?username=Rayyan-M15&label=Profile%20Views&color=0e75b6&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Rayyan-M15&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <a href="https://komarev.com/ghpvc/?username=Rayyan-Rasool-Mir&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Rayyan-Rasool-Mir&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
 
-  <a href="https://github.com/Rayyan-M15?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rayyan-M15?logo=github&style=for-the-badge" />
+  <a href="https://github.com/Rayyan-Rasool-Mir?tab=followers">
+    <img src="https://img.shields.io/github/followers/Rayyan-Rasool-Mir?logo=github&style=for-the-badge" />
   </a>
 </p>
 
@@ -75,32 +75,31 @@
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Rayyan-M15&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=Rayyan-Rasool-Mir&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayyan-M15&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayyan-Rasool-Mir&theme=tokyonight" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayyan-M15&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayyan-Rasool-Mir&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayyan-M15&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayyan-Rasool-Mir&theme=tokyonight" />
 
 <br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyan-M15&theme=tokyonight" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyan-Rasool-Mir&theme=tokyonight" />
 
 <!--
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayyan-M15&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayyan-Rasool-Mir&theme=tokyonight&utcOffset=5.5" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rayyan-M15&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rayyan-Rasool-Mir&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 -->
 
 </div>
-
 
 ---
 
