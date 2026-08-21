@@ -51,10 +51,15 @@
 
 ## Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 </p>
 
-## Tools & Technologies
+## Frameworks & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
+</p>
+
+## Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
